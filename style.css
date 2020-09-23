@@ -1,7 +1,7 @@
 body{
 font-family:Arial,Verdana,sans-serif;
-font-size:1.3rem;
-line-height:1.2;
+font-size:1.4rem;
+line-height:1.5;
 }
 
 li{
@@ -10,8 +10,8 @@ font-size:1.2rem;
 
 .responsive-photo-90 {
   display: block;
-  width: 90%;
+  width: 80%;
   margin-right: auto;
   margin-left: auto;
-  max-width: 800px;
+  max-width: 780px;
 }
